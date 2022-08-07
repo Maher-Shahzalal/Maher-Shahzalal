@@ -1,7 +1,7 @@
    ### Hi 👋, I'm MAHER SHAHZALAL
 
 
-Software Engineer and Laravel backend developer
+<b> Software Engineer and Laravel backend developer </b>
 
 - 🔭 I’m currently working on <b> Full stack project </b>
 - 🌱 I’m currently learning <b> Docker , AWS and Advanced React </b>
