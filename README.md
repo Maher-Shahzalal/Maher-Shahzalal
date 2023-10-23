@@ -4,7 +4,7 @@
 <b> Software Engineer and Laravel backend developer </b>
 
 - 🔭 I’m currently working at <b> International Charity Organization </b>
-- 🌱 I’m currently learning <b> Docker , AWS and Advanced React </b>
+- 🌱 I’m currently learning <b> Asp.net core MVC and Azure </b>
 - 💬 Ask me about <b> Laravel and Web applications </b> 
 - 📫 How to reach me: <b> maherdev1996@gmail.com </b>
 
