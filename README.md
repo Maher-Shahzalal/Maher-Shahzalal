@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at <b> International Charity Organization </b>
 - 🌱 I’m currently learning <b> Asp.net core MVC and Azure </b>
-- 💬 Ask me about <b> Laravel and Web applications </b> 
+- 💬 Ask me about <b> Web Technologies </b> 
 - 📫 How to reach me: <b> maherdev1996@gmail.com </b>
 
 ---
