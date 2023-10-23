@@ -1,7 +1,7 @@
    ### Hi 👋, I'm MAHER SHAHZALAL
 
 
-<b> Software Engineer and Laravel backend developer </b>
+<b> Software Engineer and Backend Developer </b>
 
 - 🔭 I’m currently working at <b> International Charity Organization </b>
 - 🌱 I’m currently learning <b> Asp.net core MVC and Azure </b>
