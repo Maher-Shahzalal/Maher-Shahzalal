@@ -4,7 +4,7 @@
 <b> Software Engineer and Backend Developer </b>
 
 - 🔭 I’m currently working at <b> International Charity Organization </b>
-- 🌱 I’m currently coding <b> Asp.net core MVC </b>
+- 🌱 I’m currently coding and testing <b> Oracle Apex </b>
 - 💬 Ask me about <b> Web Technologies </b> 
 - 📫 How to reach me: <b> maherdev1996@gmail.com </b>
 
