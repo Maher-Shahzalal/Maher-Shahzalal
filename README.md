@@ -13,7 +13,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-apex-original.svg" title="oracle" alt="apex" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/apex-original.svg" title="oracle" alt="apex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet core" alt="dotnet core" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
